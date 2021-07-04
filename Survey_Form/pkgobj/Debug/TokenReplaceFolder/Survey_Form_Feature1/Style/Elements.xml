@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Style" Url="Style Library">
+    <File Path="Style\Survey_Form\Survey_Form.css" Url="Survey_Form/Survey_Form.css" Type="GhostableInLibrary" ReplaceContent="TRUE"/>
+    <File Path="Style\signature\js\signature_pad.umd.js" Url="signature/js/signature_pad.umd.js"  Type="GhostableInLibrary" ReplaceContent="TRUE"/>
+    <File Path="Style\signature\js\app.js" Url="signature/js/app.js"  Type="GhostableInLibrary" ReplaceContent="TRUE"/>
+    <File Path="Style\signature\css\signature-pad.css" Url="signature/css/signature-pad.css"  Type="GhostableInLibrary" ReplaceContent="TRUE"/>
+    <File Path="Style\signature\css\ie9.css" Url="signature/css/ie9.css"  Type="GhostableInLibrary" ReplaceContent="TRUE"/>
+  </Module>
+</Elements>

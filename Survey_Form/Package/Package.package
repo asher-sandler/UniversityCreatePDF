@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3af2ca6a-802d-4371-937a-3a8480a6115e" solutionId="3af2ca6a-802d-4371-937a-3a8480a6115e" resetWebServer="false" sharePointProductVersion="15.0" name="Survey_Form" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="37371500-d1c5-4b12-897a-84ae50c055b7" />
+  </features>
+</package>

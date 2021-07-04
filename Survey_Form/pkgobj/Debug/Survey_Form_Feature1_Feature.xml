@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Survey_Form Feature1" AlwaysForceInstall="TRUE" Id="965b9525-3af1-4a5d-aeb1-369bb8c57deb" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="VisualWebPart1\Elements.xml" />
+    <ElementFile Location="VisualWebPart1\VisualWebPart1.webpart" />
+    <ElementManifest Location="Style\Elements.xml" />
+    <ElementFile Location="Style\Survey_Form\Survey_Form.css" />
+    <ElementFile Location="Style\signature\js\signature_pad.umd.js" />
+    <ElementFile Location="Style\signature\js\app.js" />
+    <ElementFile Location="Style\signature\css\signature-pad.css" />
+    <ElementFile Location="Style\signature\css\ie9.css" />
+  </ElementManifests>
+</Feature>

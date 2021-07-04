@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Survey_Form.VisualWebPart1.VisualWebPart1, Survey_Form, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2965031e2ab099fa" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Survey_Form </property>
+        <property name="Description" type="string">Survey_Form</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

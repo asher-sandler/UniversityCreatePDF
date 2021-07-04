@@ -1,0 +1,1058 @@
+﻿body
+{
+}
+
+
+.sig_container_div{
+
+}
+.sig_button_div{
+
+}
+
+.sig_button{
+
+  min-width:100px;
+        border-style:solid;
+        border-color:#6d6d6d;
+        border-width:1px;
+  min-height:18pt;
+        font-size:1.3em !Important;
+        direction:ltr;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+}
+.sig_button:hover {
+    min-width:100px;
+        border-style:solid;
+        border-color:#fff;
+        border-width:1px;
+  min-height:18pt;
+        font-size:1.3em !Important;
+        direction:ltr;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+
+
+     
+        cursor:pointer;
+}
+
+.sig_image_div{
+
+}
+
+.sig_image{
+
+}
+    
+     table.ms-rtetoolbarmenu { display: none; }
+iframe.ms-rtelong { width: 100%; }
+
+    .DynamicTable
+    {
+        direction:ltr;
+        text-align:left;
+        margin-left:0px;
+        margin-right:auto;
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+        margin-top:0.7em;
+        vertical-align:top !important;
+        
+    }
+     .DynamicTableHe
+    {
+        direction:rtl !important;
+        text-align:right !important;
+        margin-right:0px;
+        margin-left:auto;
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+       margin-top:0.7em;
+        vertical-align:top !important;
+      
+       
+    }
+
+.DynamicCell {
+    direction:ltr;
+    font-family:inherit !important;
+    font-size:inherit !important;
+    vertical-align:top;
+}
+.DynamicCellHe {
+    direction:rtl;
+     font-family:inherit !important;
+    font-size:inherit !important;
+    vertical-align:top;
+}
+
+
+    .DynamicCheckBox
+    {  
+        border-style:solid;
+        border-color:#6d6d6d;
+        border-width:0px;
+       width:19px;
+        height:19px;
+            vertical-align:middle;
+     font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+
+
+    }
+
+      .DynamicCheckBox:hover
+    {  
+        border-style:solid;
+        border-color:#13d111;
+        border-width:0px;
+       width:19px;
+        height:19px;
+            vertical-align:middle;
+     font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+
+
+    }
+    .DynamicCheckBoxHe
+    {         
+        border-style:solid;
+        border-color:#6d6d6d;
+        border-width:0px; 
+        text-align:center; 
+        vertical-align:middle; 
+        width:19px;
+        height:19px;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+       
+
+     }
+
+      .DynamicCheckBoxHe:hover
+    {         
+        border-style:solid;
+        border-color:#13d111;
+        border-width:0px; 
+        text-align:center; 
+        vertical-align:middle; 
+        width:19px;
+        height:19px;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+       
+
+     }
+     .DynamicCheckBoxRed
+    {
+        border-style:solid;
+        border-color:#a70e2e;
+        background-color:#FFEBE0;
+        border-width:0.7px;
+        text-align:center; 
+        vertical-align:middle; 
+        text-align:center; 
+        vertical-align:middle; 
+        padding-bottom:3px;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+
+       .DynamicCheckBoxRed:hover
+    {
+        border-style:solid;
+        border-color:#13d111;
+        background-color:#FFEBE0;
+        border-width:0.7px;
+        text-align:center; 
+        vertical-align:middle; 
+        text-align:center; 
+        vertical-align:middle; 
+       padding-bottom:3px;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+
+.DynamicCheckBoxSize {
+   margin:1%; 
+ 
+}
+    .DynamicCheckBoxHeRed
+    {         
+        border-style:solid;
+        border-color:#a70e2e;
+        background-color:#FFEBE0;
+        border-width:0.7px;
+        text-align:center; 
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+        padding-bottom:3px;
+     
+     }
+
+     .DynamicCheckBoxHeRed:hover
+    {         
+        border-style:solid;
+        border-color:#13d111;
+        background-color:#FFEBE0;
+        border-width:0.7px;
+        text-align:center; 
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+        padding-bottom:3px;
+     
+     }
+    
+    
+
+.rblItem {
+   padding-right:5px;
+    font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+}
+.rblItemHe {
+   padding-left:5px;
+    font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+}
+
+.DownloadButton {
+    font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+         width: 100%;
+    margin: auto;
+    font-size: 1.3em;
+    background-color: #fff;
+    border: solid 1px #fff;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+.DownloadButton:hover {
+    font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+         width: 100%;
+    margin: auto;
+    font-size: 1.3em;
+    background-color: #fff;
+    
+    border: solid 1px #13d111;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+     .DynamicRadioButtonListStyle
+    {
+        
+       
+        border-width:0px;
+        direction:ltr;
+   }
+     .DynamicRadioButtonListStyleHe
+    {
+         
+     
+        border-width:0px;
+       direction:rtl;
+  }
+  
+   .DynamicRadioButtonListStyleRed
+    {
+        border-style:solid;
+        border-color:#a70e2e;
+         background-color:#FFEBE0;
+        border-width:0.7px;
+        direction:ltr;
+   }
+
+
+
+   .DynamicRadioButtonListStyleRed:hover
+    {
+        border-style:solid;
+        border-color:#13d111;
+         background-color:#FFEBE0;
+        border-width:0.7px;
+        direction:ltr;
+   }
+     .DynamicRadioButtonListStyleHeRed
+    {
+         
+      
+        border-style:solid;
+        border-color:#a70e2e;
+         background-color:#FFEBE0;
+       border-width:0.7px;
+       direction:rtl;
+        padding-left:3px;
+
+  } 
+     
+      .DynamicRadioButtonListStyleHeRed:hover
+    {
+         
+      
+        border-style:solid;
+        border-color:#13d111;
+         background-color:#FFEBE0;
+       border-width:0.7px;
+       direction:rtl;
+        padding-left:3px;
+
+  }
+
+     .DynamicRadioButtonListStyleYellow
+    {
+         
+        border-style:solid;
+        border-color:#9F6000;
+        background-color:#FEEFB3;
+        border-width:0.7pt;
+        
+        direction:ltr;
+   }
+     .DynamicRadioButtonListStyleHeYellow
+    {
+         
+        border-style:solid;
+        border-color:#9F6000;
+        background-color:#FEEFB3;
+        border-width:0.7pt;
+       
+        direction:rtl;
+  }
+     .DynamicTextBox
+    {
+        
+        border-style:solid;
+        border-color:#6d6d6d !Important;
+         border-width:0.7pt;          
+        direction:ltr;
+        width:100%;
+       padding-top:2px !Important;
+       font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+        
+    }
+         .DynamicTextBox:hover
+    {
+        
+        border-style:solid;
+        border-color:#13d111 !Important;
+         border-width:0.7pt;          
+        direction:ltr;
+        width:100%;
+       padding-top:2px !Important;
+       font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+        
+    }
+    
+      .DynamicTextBoxHe
+    {
+        
+        border-style:solid;
+        border-color:#6d6d6d !Important;
+        border-width:0.7pt;        
+        direction:rtl;
+        width:100%;
+        padding-top:2px !Important;
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+        
+    }
+           .DynamicTextBoxHe:hover
+    {
+        
+        border-style:solid;
+        border-color:#13d111 !Important;
+        border-width:0.7pt;        
+        direction:rtl;
+        width:100%;
+        padding-top:2px !Important;
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+        
+    }
+    
+     .DynamicTextBoxRed
+    {
+        
+        border-style:solid;
+        border-color:#a70e2e !Important;
+        /*background-color:#e4b9c6;*/
+        background-color:#FFEBE0 !Important;
+        border-width:0.7pt;
+       
+        direction:ltr;
+        width:100%;
+        padding-top:2px !Important;
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+
+           .DynamicTextBoxRed:hover
+    {
+        border-style:solid;
+        border-color:#13d111 !Important;
+        /*background-color:#e4b9c6;*/
+        background-color:#FFEBE0 !Important;
+        border-width:0.7pt;
+       
+        direction:ltr;
+        width:100%;
+        padding-top:2px !Important;
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+
+        
+        
+    }
+      .DynamicTextBoxHeRed
+    {
+         
+        border-style:solid;
+        border-color:#a70e2e !Important;
+        /*background-color:#e4b9c6;*/
+        background-color:#FFEBE0 !Important;
+        border-width:0.7pt;
+      
+        direction:rtl;
+        width:100%;
+         padding-top:2px !Important; 
+       font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+         .DynamicTextBoxHeRed:hover
+    {
+         
+        border-style:solid;
+        border-color:#13d111 !Important;
+        /*background-color:#e4b9c6;*/
+        background-color:#FFEBE0 !Important;
+        border-width:0.7pt;
+      
+        direction:rtl;
+        width:100%;
+         padding-top:2px !Important; 
+       font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+     .DynamicTextBoxYellow
+    {
+        
+        border-style:solid;
+        border-color:#a70e2e !Important;
+        background-color:#FFEBE0 !Important;
+        border-width:0.7pt;
+        
+        direction:ltr;
+        width:100%;
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }   
+      .DynamicTextBoxHeYellow
+    {
+        
+        border-style:solid;
+        border-color:#a70e2e !Important;
+        background-color:#FFEBE0 !Important;
+        border-width:0.7pt;
+        
+        direction:rtl;
+        width:100%;
+         padding-top:2px !Important;
+          font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+      .DynamicDropDownList
+    {
+        border-style:solid;
+        border-color:#6d6d6d;
+        border-width:0.7pt;       
+             
+        direction:ltr;
+        width:100%;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+      .DynamicDropDownListHe
+    {
+        border-style:solid;
+        border-color:#6d6d6d;
+        border-width:0.7pt;       
+        
+        direction:rtl;
+        width:100%;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+    
+     .DynamicDropDownListRed
+    {
+        
+        border-style:solid;
+        border-color:#a70e2e;
+        background-color:#FFEBE0;
+        border-width:0.7pt;
+        direction:ltr;
+        width:100%;
+        font-family:inherit;
+    font-size:inherit;
+     font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+      .DynamicDropDownListHeRed
+    {
+        
+        border-style:solid;
+        border-color:#a70e2e;
+        background-color:#FFEBE0;
+        border-width:0.7pt;       
+        direction:rtl;
+         width:100%;
+         font-family:inherit;
+    font-size:inherit;
+     font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+      .DynamicDropDownListYellow
+    {
+        
+        border-style:solid;
+        border-color:#a70e2e;
+        background-color:#FFEBE0;
+        border-width:0.7pt;       
+        direction:ltr;
+        width:100%;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+      .DynamicDropDownListHeYellow
+    {
+        
+        border-style:solid;
+        border-color:#a70e2e;
+        background-color:#FFEBE0;
+        border-width:0.7pt;
+       
+        direction:rtl;
+         width:100%;
+          font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+    
+      .DynamicTextLabel
+    {
+              
+        direction:ltr;
+        text-align:left;
+        padding-left:5px !Important;
+        font-family:inherit;
+    font-size:inherit;
+     font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.3em !important;
+       
+    }
+       .DynamicTextLabelHe
+    {
+              
+        direction:rtl;
+        text-align:right;
+        padding-right:5px !Important;
+         font-family:inherit;
+    font-size:inherit;
+     font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.3em !important;
+       
+       
+    }
+   
+    .DynamicMultiLineTextBox
+    {overflow: hidden;
+        
+        border-style:solid;
+        border-color:#6d6d6d;
+        border-width:0.7pt;
+       
+        direction:ltr;
+        text-align:left;
+        margin-right:0.25em;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+    
+    .DynamicMultiLineTextBoxHe
+    {
+        overflow: hidden;
+       
+        border-style:solid;
+        border-color:#6d6d6d;
+        border-width:0.7pt;
+        
+        direction:rtl;
+        text-align:right;
+        margin-left:0.25em;
+       font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+        
+    }
+    .DynamicMultiLineTextBoxRed
+    {
+        overflow: hidden;
+       border-color:#a70e2e;
+        background-color:#FFEBE0;
+        border-style:solid;
+       
+       border-width:0.7pt;
+      
+        direction:ltr;
+        text-align:left;
+        margin-right:0.25em;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+    
+    .DynamicMultiLineTextBoxHeRed
+    {
+        overflow: hidden;
+       
+      border-style:solid;
+       border-color:#a70e2e;
+        background-color:#FFEBE0;
+        border-width:0.7pt;
+         font-family:inherit;
+    font-size:inherit;
+        direction:rtl;
+        width:100%;
+         padding-top:2px !Important; 
+       font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+        
+    }
+     .DynamicLabel
+    {
+        
+        color:#03528e;
+        text-align:left;
+        direction:ltr;       
+    
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+    
+      .DynamicLabelHe
+    {
+        
+        color:#03528e;
+        text-align:right;
+        direction:rtl;
+      
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+    
+      .DynamicMessageLabel
+    {
+
+        font-size:14px;
+        font-weight:bold;
+        color:#2f6328;
+        text-align:left;
+        direction:ltr;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+       
+    }
+    
+      .DynamicMessageLabelHe
+    {
+        background-color:#c5eba3;
+        font-size:14px;
+        width:150%;
+        height:120%;
+        color:#3d3d3d;
+        text-align:right;
+        direction:rtl;
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+    .DynamicMessageLabelError
+    {
+        font-size:14px;
+        font-weight:bold;
+        color:#a70e2e;
+        text-align:left;
+        direction:ltr;
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+
+    }
+    
+    .DynamicMessageLabelHeError
+    {
+        font-size:14px;
+        font-weight:bold;
+        color:#a70e2e;
+        text-align:right;
+        direction:rtl;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+    
+     .DynamicHeader
+    {
+        font-size:1.5em !important;
+        font-weight:bold;
+        color:#386b97;
+        text-align:left;
+        direction:ltr;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+       
+    }
+    
+     .DynamicHeaderHe
+    {
+        font-size:1.5em !important;
+        font-weight:bold;
+       color:#386b97;
+        text-align:right;
+        direction:rtl;
+        width:100%;
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+      
+        
+       
+    }
+    
+      .Dynamic_docHeader
+    {
+        font-size:1.7em;
+        font-weight:bold;
+        color:#386b97;
+        text-align:left;
+        direction:ltr;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+       
+    }
+    
+     .Dynamic_docHeaderHe
+    {
+        font-size:1.7em;
+        font-weight:bold;
+        color:#386b97;
+        text-align:right;
+        direction:rtl;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+    }
+    
+    .DynamicButton
+    {
+        width:100px;
+        border-style:solid;
+        border-color:#6d6d6d;
+        border-width:1px;
+  min-height:18pt;
+        font-size:1.3em !Important;
+        direction:ltr;
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+    }
+    
+     .DynamicAddButton
+    {
+       
+        border-style:dotted;
+        background-color:#fff;
+        border-color:#6d6d6d;
+        border-width:1px;       
+        direction:ltr;
+               min-height:16pt;
+
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+      .DynamicAddButton:hover
+{
+         border-style:solid;
+        background-color:#fff;
+        border-color:#6d6d6d;
+        border-width:1px;       
+        direction:ltr;
+               min-height:16pt;
+
+         font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+        cursor:pointer;
+}
+
+     .DynamicButtonHe
+    {
+        width:100px;
+        border-style:dotted;
+        background-color:#fff;
+        border-color:#6d6d6d;
+        border-width:1px;
+        min-height:18pt;
+        direction:rtl;
+        font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+        font-size:1.1em !important;
+    }
+     .DynamicButton:hover
+{ width:100px;
+        border-style:solid;
+        background-color:#fff;
+       min-height:18pt;
+        border-color:#6d6d6d;
+        border-width:1px;
+        direction:ltr;
+        cursor:pointer;
+        font-family:inherit;
+}
+     .DynamicButtonHe:hover
+{ width:100px;
+        border-style:solid;
+        background-color:#fff;
+       min-height:18pt;
+        border-color:#6d6d6d;
+        border-width:1px;
+        direction:rtl;
+        cursor:pointer;
+        font-family:inherit;
+}
+     .DynamicLabelFloat
+    {
+        
+         color:#386b97;
+         text-align:left;
+        direction:ltr;
+       font-family:inherit;
+       font-size:inherit;
+     } 
+       .DynamicLabelFloatHe
+    {
+       
+         color:#386b97;
+         text-align:right;
+        direction:rtl;
+        font-family:inherit;
+        font-size:inherit;
+       
+     } 
+     
+       .DynamicDatePicker
+    {
+        
+        border-style:solid;
+        border-color:#6d6d6d;
+        border-width:1px;
+       
+        direction:ltr;
+        width:95%;
+    }
+      .DynamicDatePickerHe
+    {
+        
+        border-style:solid;
+        border-color:#6d6d6d;
+        border-width:1px;
+     
+        
+        direction:rtl;
+        width:95%;
+    }
+    
+     .DynamicDatePickerRed
+    {
+        
+        border-style:solid;
+        border-color:#a70e2e;
+        background-color:#e4b9c6;
+        border-width:2px;
+       
+        direction:ltr;
+        width:95%;
+    }
+      .DynamicDatePickerHeRed
+    {
+        
+        border-style:solid;
+        border-color:#a70e2e;
+        background-color:#e4b9c6;
+        border-width:2px;
+       
+        direction:rtl;
+        width:95%;
+    }
+      .DynamicDatePickerYellow
+    {
+        
+        border-style:solid;
+        border-color:#e4b9c6;
+        border-color:#a70e2e;
+        /*background-color:#FEEFB3;*/
+        border-width:2px;
+       
+        direction:ltr;
+        width:95%;
+    }
+      .DynamicDatePickerHeYellow
+    {
+        
+        border-style:solid;
+        border-color:#e4b9c6;
+        background-color:#e4b9c6;
+        border-width:2px;
+        
+        direction:rtl;
+        width:95%;
+    }
+
+
+.DynamicMessageContainerSuccessEn {
+    background-color:#009933;
+    border-color:#00830b;
+    border:dotted;
+    border-width:1px;
+    min-height:30px;
+    width:100%;
+    direction:ltr;
+    vertical-align:middle;
+}
+.DynamicMessageContainerSuccessHe {
+    background-color:#009933;
+    border-color:#00830b;
+    border:dotted;
+    border-width:1px;
+    min-height:30px;
+    width:100%;
+    direction:rtl;
+    vertical-align:middle;
+}
+
+.DynamicMessageContainerFailedEn {
+    background-color:#990000;
+    border-color:#000;
+    border:dotted;
+    border-width:1px;
+    min-height:30px;
+    width:100%;
+    direction:ltr;
+    vertical-align:middle;
+}
+
+
+
+.DynamicMessageContainerFailedHe {
+    background-color:#990000;
+    border-color:#000;
+    border:dotted;
+    border-width:1px;
+    min-height:30px;
+    width:100%;
+    direction:rtl;
+    vertical-align:middle;
+}
+
+
+.DinamicMessageImageSuccessHe {
+    float:right;
+    background-image:url('success.png');
+    width:30px;
+    height:30px
+    
+}
+.DinamicMessageImageFailedHe {
+    float:right;
+    background-image:url('failed.png');
+    width:30px;
+    height:30px
+    
+}
+.DinamicMessageImageSuccessEn {
+    float:left; 
+    background-image:url('success.png');
+    width:30px;
+    height:30px
+
+}
+.DinamicMessageImageFailedEn {
+    float:left; 
+    background-image:url('failed.png');
+    width:30px;
+    height:30px
+
+}
+
+.DynamicMessageTextHe {
+    float:right;
+    border:solid;
+    color:white;
+    font-size:1.1em !Important;
+    font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+    border-width:0px 1px 0px 0px;
+    border-color:White;
+    height:70%;
+    margin-top:5px;
+    padding-right:10px;
+    
+}    
+
+
+.DynamicMessageTextEn {
+    float:left;
+    border:solid;
+    color:white;
+    font-family:    "Segoe UI Light","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif !important;
+    font-size:1.1em !Important;
+    font-family:inherit;
+    border-width:0px 0px 0px 1px;
+    border-color:White;
+    height:70%;
+    margin-top:5px;
+    padding-right:10px;
+}
+.Dynamictooltip {
+    position: relative;
+    display: inline-block;
+   /* margin-left:10px;
+    margin-right:10px;*/
+}
+
+.Dynamictooltip .Dynamictooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    font-family:inherit;
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+    
+}
+
+.Dynamictooltip:hover .Dynamictooltiptext {
+    visibility: visible;
+}
+
+.approverContainer {
+    border:dotted;
+    border-width:0px 0px 0.7px 0px;
+    padding-bottom:5px;
+}
+
+.hideCaptcha {
+    display:none;
+}
+
+.start_end_message_label
+{
+
+}
+
+.start_end_message_label_div
+{
+
+}

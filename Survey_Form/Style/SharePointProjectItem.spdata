@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Style\" Type="ElementManifest" />
+    <ProjectItemFile Source="Survey_Form\Survey_Form.css" Target="Style\Survey_Form\" Type="ElementFile" />
+    <ProjectItemFile Source="signature\js\signature_pad.umd.js" Target="Style\signature\js\" Type="ElementFile" />
+    <ProjectItemFile Source="signature\js\app.js" Target="Style\signature\js\" Type="ElementFile" />
+    <ProjectItemFile Source="signature\css\signature-pad.css" Target="Style\signature\css\" Type="ElementFile" />
+    <ProjectItemFile Source="signature\css\ie9.css" Target="Style\signature\css\" Type="ElementFile" />
+  </Files>
+</ProjectItem>
